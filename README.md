@@ -13,7 +13,7 @@ rm -rf $(which sourced)
 ```
 
 
-For full Source Chain Documentation click: [HERE](https://docs.sourceprotocol.io/source-chain-documentation/introduction)
+For full Source chain Documentation click: [HERE](https://docs.sourceprotocol.io/source-chain-documentation/introduction)
 
 ### Minimum hardware requirements
 8GB RAM
